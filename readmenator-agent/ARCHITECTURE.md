@@ -6,4 +6,12 @@
 
 ## External Imports
 
-- `app.py` -> json, numpy, pathlib, torch, torch.nn, torch.nn.functional, torch.optim, torch.utils.data, torchvision
+- `app.py` -> `json`
+- `app.py` -> `numpy`
+- `app.py` -> `pathlib`
+- `app.py` -> `torch`
+- `app.py` -> `torch.nn`
+- `app.py` -> `torch.nn.functional`
+- `app.py` -> `torch.optim`
+- `app.py` -> `torch.utils.data`
+- `app.py` -> `torchvision`
